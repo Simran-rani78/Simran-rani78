@@ -1,4 +1,7 @@
 ## Hi there 👋
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Simran-rani78&show_icons=true&theme=dark)
 
 <!--
 **Simran-rani78/Simran-rani78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
